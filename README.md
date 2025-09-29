@@ -355,7 +355,7 @@ Este proyecto es parte de una actividad académica de la Universidad Iberoameric
 
 ## 📞 Contacto
 
-- **Estudiante**: [Tu Nombre]
+- **Estudiante**: Miguel Gallego
 - **Curso**: Inteligencia Artificial Avanzada
 - **Universidad**: Universidad Iberoamericana
 - **Año**: 2024
@@ -364,7 +364,12 @@ Este proyecto es parte de una actividad académica de la Universidad Iberoameric
 
 ## 🎬 Video Explicativo
 
-Para ver la demostración completa del sistema, consulta el video explicativo que incluye:
+Para ver la demostración completa del sistema, consulta el video explicativo:
+
+### 📺 **Video de Demostración**
+**[Ver Video en YouTube](https://youtu.be/RYj_AOikX40)**
+
+El video incluye:
 
 1. **Introducción** al proyecto y objetivos
 2. **Demostración** del sistema en funcionamiento
@@ -373,8 +378,8 @@ Para ver la demostración completa del sistema, consulta el video explicativo qu
 5. **Conclusiones** y aprendizajes obtenidos
 
 **Duración**: 5 minutos máximo
-**Formato**: MP4 o similar
-**Participación**: Todos los integrantes del equipo
+**Formato**: YouTube
+**Presentador**: Miguel Gallego
 
 ---
 

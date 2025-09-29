@@ -208,11 +208,15 @@ python3 sistema_rutas.py demo
 
 ### 📞 **Información del Proyecto**
 
+- **Estudiante**: Miguel Gallego
 - **Universidad**: Universidad Iberoamericana
 - **Curso**: Inteligencia Artificial Avanzada
 - **Tema**: Sistemas Inteligentes Basados en Conocimiento
 - **Año**: 2024
 - **Estado**: ✅ COMPLETADO
+
+### 🎬 **Video Explicativo**
+**[Ver Video en YouTube](https://youtu.be/RYj_AOikX40)**
 
 ---
 

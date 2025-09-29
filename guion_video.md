@@ -13,7 +13,7 @@
 **Duración**: 45 segundos
 
 #### Presentación Personal
-- "Hola, soy [Tu Nombre] y hoy presento mi proyecto de Inteligencia Artificial"
+- "Hola, soy Miguel Gallego y hoy presento mi proyecto de Inteligencia Artificial"
 - "Desarrollé un Sistema Inteligente de Rutas de Transporte Masivo"
 - "Implementé algoritmos de búsqueda heurística para optimización de rutas"
 
